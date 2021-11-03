@@ -1,5 +1,5 @@
 {
-  "name": "rescript-intro",
+  "name": "rescript-type-inference-example",
   "sources": [
     {
       "dir": "src",
