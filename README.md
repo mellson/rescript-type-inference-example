@@ -1,15 +1,2 @@
-# ReScript React starter with Tailwind and Vite
-
-This repo is a starter for running ReScript React with Tailwind on Vite.
-
-## Getting started
-
-The project includes a .vscode folder with extension suggestions and setup for running in vscode.
-
-1. Open the folder in vscode and install the suggested extension. Reload vscode.
-
-2. Open a `.res` file, for instance `App.res` and start the build which should be suggested by the popup in the bottom right corner. If there's no popup run `yarn start` and jump to #4.
-
-3. Start Vite by running `yarn dev` in the folder.
-
-4. Open http://localhost:3000 and you should be up and running.
+# ReScript type inference example
+This repo is a reproduction of a question about type inference in ReScript. The original question is available at the [ReScript forum](https://forum.rescript-lang.org/t/trying-to-understand-type-inference-and-stumbling-on-this-formik-example/2593).
